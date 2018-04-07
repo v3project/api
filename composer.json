@@ -1,6 +1,6 @@
 {
 	"name": "v3project/api",
-    "version": "v0.0.1",
+    "version": "v0.0.2",
     "description": "V3Project API",
 	  "keywords": ["v3project", "api"],
     "license": "MIT",

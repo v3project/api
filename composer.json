@@ -1,6 +1,6 @@
 {
 	"name": "v3project/api",
-    "version": "v0.0.0",
+    "version": "v0.0.1",
     "description": "V3Project API",
 	  "keywords": ["v3project", "api"],
     "license": "MIT",
@@ -17,7 +17,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "v3poject\\api\\": "src/"
+            "v3project\\api\\": "src/"
         }
     }
 }
